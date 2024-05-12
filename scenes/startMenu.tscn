@@ -75,7 +75,7 @@ theme_override_colors/font_shadow_color = Color(0, 0, 0, 1)
 theme_override_constants/outline_size = 4
 theme_override_constants/line_spacing = 9
 theme_override_font_sizes/font_size = 16
-text = "Pip is trying to find his way home and he needs your help!
+text = "Pip is going through his memories of his travels!
 Click between the desert and town to explore his past journey 
 and his home!"
 horizontal_alignment = 1
